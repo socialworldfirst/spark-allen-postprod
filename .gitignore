@@ -2,5 +2,6 @@ build.py
 data.py
 scripts.py
 cuts.py
+rank.py
 cuts_*.json
 __pycache__/
